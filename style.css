@@ -1,0 +1,28 @@
+header{
+   background: #11AACC;
+}
+
+h1{
+    position: absolute;
+width: 254px;
+height: 117px;
+left: 16px;
+top: 8px;
+
+font-family: 'Jaldi';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 68px;
+
+color: #FFFFFF;
+}
+
+ul{
+    display: flex;
+    position: relative;
+    left: 518px;
+}
+li{
+    margin-left: 30px;
+}
